@@ -21,8 +21,8 @@
 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8b93aa2c-21b6-4c30-845a-6689045696af/deploy-status)](https://app.netlify.com/sites/pwdgeneratorkcp/deploys)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b93aa2c-21b6-4c30-845a-6689045696af/deploy-status)](https://app.netlify.com/sites/pwdgeneratorkcp/deploys)
 <br>
 You are welcome to test it on this link:https://pwdgeneratorkcp.netlify.app
 
